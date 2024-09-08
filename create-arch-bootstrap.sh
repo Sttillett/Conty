@@ -47,7 +47,7 @@ devel_pkgs="base-devel git meson mingw-w64-gcc cmake"
 #	libretro-parallel-n64 libretro-pcsx2 libretro-picodrive libretro-ppsspp \
 #	libretro-retrodream libretro-yabause sunshine"
 
-export packagelist="timeshift, zenity"
+export packagelist="timeshift, zenity, wget"
 
 # If you want to install AUR packages, specify them in this variable
 export aur_packagelist=""
